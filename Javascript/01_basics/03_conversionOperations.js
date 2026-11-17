@@ -51,6 +51,15 @@ let convertInString = String(email);
 // its general converstion
 
 
+// ======= Special Conversoin ===========
+
+console.log(Number(undefined)) // NaN
+console.log(String(undefined)) // undefined
+console.log(Boolean(undefined)) // false
+
+console.log(Number(null)) // 0
+console.log(String(null)) // null
+console.log(Boolean(null)) // false
 // *********************** Operations ***********************
 
 let value = 3

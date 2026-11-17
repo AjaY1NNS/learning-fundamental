@@ -32,3 +32,11 @@ console.log(typeof null); // object
 
 // Referance document : https://tc39.es/ecma262/ 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+
+
+
+// *************** Primitive Data Types ******************
+// number, bigint, string, boolean, undefined, null, symbol
+
+// *************** Non Primitive Data Types **************
+// Array, Object, Funcation, Regexpes, Set, Map, Date
